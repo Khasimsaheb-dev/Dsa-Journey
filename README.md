@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0136-single-number) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -18,4 +19,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
