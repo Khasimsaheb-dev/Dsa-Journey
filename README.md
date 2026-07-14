@@ -71,4 +71,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
