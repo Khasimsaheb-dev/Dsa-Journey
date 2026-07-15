@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
