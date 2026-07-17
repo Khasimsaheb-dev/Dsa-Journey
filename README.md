@@ -15,6 +15,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0136-single-number) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0035-search-insert-position](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -85,4 +88,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
