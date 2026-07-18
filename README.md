@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0704-binary-search) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
@@ -67,6 +68,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0009-palindrome-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
