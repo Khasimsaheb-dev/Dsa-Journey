@@ -18,6 +18,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -77,6 +78,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
