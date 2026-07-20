@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0035-search-insert-position) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
