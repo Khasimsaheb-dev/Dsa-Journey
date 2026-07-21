@@ -16,6 +16,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0136-single-number) |
+| [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0485-max-consecutive-ones) |
@@ -42,15 +43,18 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
