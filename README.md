@@ -26,6 +26,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0724-find-pivot-index) |
 ## Linked List
 |  |
 | ------- |
