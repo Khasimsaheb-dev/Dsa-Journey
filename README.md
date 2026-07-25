@@ -50,6 +50,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0007-reverse-integer](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0009-palindrome-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
