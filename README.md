@@ -22,6 +22,7 @@
 | [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
