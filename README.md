@@ -32,6 +32,7 @@
 | [0875-koko-eating-bananas](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
