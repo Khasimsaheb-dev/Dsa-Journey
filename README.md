@@ -144,9 +144,14 @@
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
