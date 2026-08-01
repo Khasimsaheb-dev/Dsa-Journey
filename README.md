@@ -21,6 +21,7 @@
 | [0152-maximum-product-subarray](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@
 | [0027-remove-element](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -114,6 +116,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0704-binary-search) |
