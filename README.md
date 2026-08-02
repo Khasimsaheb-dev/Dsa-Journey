@@ -34,6 +34,7 @@
 | [0724-find-pivot-index](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -57,6 +58,7 @@
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -68,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
