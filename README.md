@@ -42,6 +42,7 @@
 | [1929-concatenation-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2239-find-closest-number-to-zero](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2239-find-closest-number-to-zero) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
