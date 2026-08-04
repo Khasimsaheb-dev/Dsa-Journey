@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -156,6 +157,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
