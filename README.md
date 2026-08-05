@@ -163,6 +163,7 @@
 | [0205-isomorphic-strings](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -182,4 +183,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
