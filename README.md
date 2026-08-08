@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
