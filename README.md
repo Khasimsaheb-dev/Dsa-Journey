@@ -24,6 +24,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0238-product-of-array-except-self) |
@@ -62,6 +63,7 @@
 | [0031-next-permutation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -120,6 +122,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1903-largest-odd-number-in-string) |
