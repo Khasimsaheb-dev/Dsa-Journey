@@ -36,6 +36,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0875-koko-eating-bananas) |
@@ -120,6 +121,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -209,6 +211,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
