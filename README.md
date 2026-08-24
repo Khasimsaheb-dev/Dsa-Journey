@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0162-find-peak-element) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0877-stone-game) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
