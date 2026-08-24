@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
