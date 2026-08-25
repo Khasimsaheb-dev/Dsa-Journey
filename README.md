@@ -74,6 +74,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -171,6 +172,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
 | ------- |
