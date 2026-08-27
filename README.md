@@ -79,6 +79,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -178,6 +179,7 @@
 | [0206-reverse-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
