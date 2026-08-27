@@ -41,6 +41,7 @@
 | [0682-baseball-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0881-boats-to-save-people) |
@@ -233,6 +234,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -277,4 +279,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0881-boats-to-save-people) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
