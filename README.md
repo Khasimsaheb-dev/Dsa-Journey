@@ -77,6 +77,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0881-boats-to-save-people) |
@@ -183,6 +184,7 @@
 | [0141-linked-list-cycle](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -241,6 +243,7 @@
 | [0020-valid-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -283,6 +286,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0234-palindrome-linked-list) |
 ## Timsort
 |  |
 | ------- |
