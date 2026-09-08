@@ -160,6 +160,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
