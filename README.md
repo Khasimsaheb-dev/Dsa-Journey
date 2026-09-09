@@ -33,6 +33,7 @@
 | [0238-product-of-array-except-self](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0189-rotate-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -172,6 +175,7 @@
 | [0162-find-peak-element](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0875-koko-eating-bananas) |
@@ -315,8 +319,13 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0148-sort-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
