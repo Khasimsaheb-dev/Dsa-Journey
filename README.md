@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0016-3sum-closest) |
@@ -66,6 +67,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0018-4sum) |
@@ -239,6 +241,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
