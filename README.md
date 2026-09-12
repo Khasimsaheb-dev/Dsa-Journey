@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0142-linked-list-cycle-ii) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -230,6 +232,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
