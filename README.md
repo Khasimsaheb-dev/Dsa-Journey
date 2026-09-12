@@ -139,6 +139,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0142-linked-list-cycle-ii) |
@@ -227,6 +229,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
@@ -335,9 +338,14 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0148-sort-list) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0287-find-the-duplicate-number) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
