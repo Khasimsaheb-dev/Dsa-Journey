@@ -165,6 +165,7 @@
 | [0007-reverse-integer](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -326,6 +327,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0234-palindrome-linked-list) |
