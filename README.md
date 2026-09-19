@@ -17,6 +17,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -166,6 +167,7 @@
 | [0009-palindrome-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
