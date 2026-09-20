@@ -160,6 +160,7 @@
 | [0682-baseball-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
