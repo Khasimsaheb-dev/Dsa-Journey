@@ -7,11 +7,7 @@ public:
         int minidx=INT_MAX;
        
            for(int j=0;j<n;j++){
-            if(nums[j]<=9){
-                if(nums[j]==j){
-                    minidx=min(minidx,j);
-                }
-            }
+            
             if(nums[j]>9){
                 int da=nums[j];
                 int sum=0;
@@ -21,6 +17,12 @@ public:
                      da/=10;
                 }
                 if(sum==j){
+                    minidx=min(minidx,j);
+                }
+               
+            }
+            else{
+                if(nums[j]==j){
                     minidx=min(minidx,j);
                 }
             }
