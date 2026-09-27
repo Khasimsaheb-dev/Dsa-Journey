@@ -70,6 +70,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -178,6 +179,7 @@
 | [0066-plus-one](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1903-largest-odd-number-in-string) |
@@ -346,6 +348,7 @@
 | [0050-powx-n](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1922-count-good-numbers) |
 ## Timsort
