@@ -270,6 +270,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -304,6 +305,7 @@
 | [0682-baseball-game](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -311,6 +313,7 @@
 | [0020-valid-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bucket Sort
 |  |
