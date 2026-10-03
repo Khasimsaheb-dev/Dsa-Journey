@@ -144,6 +144,7 @@
 | [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
@@ -278,6 +280,7 @@
 | [0205-isomorphic-strings](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -408,4 +411,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
