@@ -101,6 +101,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -282,6 +283,7 @@
 | [0344-reverse-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0680-valid-palindrome-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
