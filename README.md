@@ -105,6 +105,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -288,6 +289,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Khasimsaheb-dev/Dsa-Journey/tree/master/3498-reverse-degree-of-a-string) |
